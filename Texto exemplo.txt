@@ -1,0 +1,1 @@
+Esse é um texto de exemplo para usar o github e clonar um repo para a máquina local.
